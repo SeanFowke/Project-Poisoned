@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shield
+  - Sword
+  - Axe
+  - DaggerBleeding
+  - Spear
+  - DaggerPoison
+  - Lightning
+  - Fire
+  - Ice
+  - GravityBall
+  - Key
+  - GunWomanBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - GunWomanBullet
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Tiles
+    uniqueID: 3225310547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3533662563
+    locked: 0
+  - name: Enemies
+    uniqueID: 56389675
+    locked: 0
